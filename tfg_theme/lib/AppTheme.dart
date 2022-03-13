@@ -1,7 +1,7 @@
 library san_theme;
 
 import 'package:flutter/material.dart';
-import 'package:theme_tfg/AppColors.dart';
+import 'package:tfg_theme/AppColors.dart';
 
 import 'AppText.dart';
 ///App Default Theme
