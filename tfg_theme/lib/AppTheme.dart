@@ -21,8 +21,8 @@ import 'AppText.dart';
 ///- Background Color
 ///
 ///- Text Theme
-class SanTheme {
-  SanTheme._();
+class AppTheme {
+  AppTheme._();
   static final ThemeData themeData = ThemeData(
       appBarTheme: AppBarTheme(
           color: AppColors.color12, titleTextStyle: AppText.appBar),
